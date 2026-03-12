@@ -1,4 +1,4 @@
-source:
+sources:
   - name: src
     database: sourcedb
     schema: mk_mall
